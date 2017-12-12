@@ -1,2 +1,9 @@
 My first line in project
 Paris is the capital of France
+---index task---
+cat >> file.txt
+---index task---
+git add file.txt
+cat >> file.txt
+git diff
+git diff --cached
